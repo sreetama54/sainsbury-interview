@@ -1,0 +1,9 @@
+@import "../../styles/_variables.scss";
+
+header {
+  background-color: $grey-gold;
+  height: 100px;
+  padding: 40px;
+  display: flex;
+  justify-content: space-between;
+}
